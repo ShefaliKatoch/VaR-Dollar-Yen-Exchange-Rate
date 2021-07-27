@@ -1,0 +1,1 @@
+# VaR-Dollar-Yen-Exchange-Rate
